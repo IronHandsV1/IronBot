@@ -1,8 +1,8 @@
 {
-“name”: “IronBot”,
-“version”: “1.0.0”,
-“description”: “Multi Task Discord Bot”,
-“main”: “bot.js”,
-“author”: “IronHands”,
-“dependencies”: {}
+â€œnameâ€: â€œIron-Botâ€,
+â€œversionâ€: â€œ1.0.0â€,
+â€œdescriptionâ€: â€œMulti Task Discord Botâ€,
+â€œmainâ€: â€œbot.jsâ€,
+â€œauthorâ€: â€œIronHandsâ€,
+â€œdependenciesâ€: {}
 }
